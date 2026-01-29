@@ -16,7 +16,7 @@ SAP-SS-ARGO 是一个专为 SAP BTP Cloud Foundry 环境设计的轻量级 Node.
 
 1.移除哪吒探针功能。
 
-2.把原项目三协议：vmess、vless、trogan修改成shadowsocks。
+2.把原项目三个协议：vmess、vless、trogan修改成了单shadowsocks协议。
 
 3.AI优化了TCP/Network策略（AI自己说的）。
 
