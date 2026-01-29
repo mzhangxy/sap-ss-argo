@@ -1,0 +1,20 @@
+{
+  "name": "sap-ss-argo",
+  "version": "0.0.1",
+  "description": "Thsi is a node project",
+  "main": "index.js",
+  "author": "kele666",
+  "repository": "https://github.com/kele68108/sap-ss-argo",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
