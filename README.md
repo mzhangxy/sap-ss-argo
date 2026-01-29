@@ -5,7 +5,7 @@ SAP-SS-ARGO 是一个专为 SAP BTP Cloud Foundry 环境设计的轻量级 Node.
 优点：相比VLESS方案，能够躲过SAP流量监测（肯定是暂时的，SAP这么大的公司想封节点还不跟玩似的）。
 缺点：较于之前没被流量监测的时候，代理速度较慢（这不是本脚本的错，是SAP限速了）。
 
-本脚本完全照抄“老王”大佬的“https://github.com/eooce/nodejs-argo”项目，包括二进制文件都来下载于老王的仓库，感谢老王。
+本脚本完全照抄“老王”大佬的 https://github.com/eooce/nodejs-argo 项目，包括二进制文件都来下载于老王的仓库，感谢老王。
 
 较于老王的nodejs-argo项目修改了几点：
 1.移除哪吒探针功能。
@@ -21,4 +21,4 @@ SAP-SS-ARGO 是一个专为 SAP BTP Cloud Foundry 环境设计的轻量级 Node.
 
 部署方法：会的都会。
 
-再次感谢老王大佬，把原项目的Star点起来“https://github.com/eooce/nodejs-argo”，至于这个项目你们随意Star ⭐️
+再次感谢老王大佬，把原项目的Star点起来 https://github.com/eooce/nodejs-argo ，至于这个项目你们随意Star ⭐️
