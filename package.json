@@ -1,10 +1,9 @@
 {
   "name": "sap-ss-argo",
   "version": "0.0.1",
-  "description": "Thsi is a node project",
+  "description": "Thsi",
   "main": "index.js",
-  "author": "kele666",
-  "repository": "https://github.com/kele68108/sap-ss-argo",
+  "author": "kele",
   "license": "MIT",
   "private": false,
   "scripts": {
